@@ -559,7 +559,7 @@ function Contact() {
             <ContactRow icon={MapPin} label="Location" value="Dubai, UAE" />
             <ContactRow icon={Mail} label="Email" value="aiswarya.narayanan6@gmail.com" href="mailto:aiswarya.narayanan6@gmail.com" />
             <ContactRow icon={Phone} label="UAE Mobile" value="+971 55 406 7324" href="tel:+971554067324" />
-            <ContactRow icon={Linkedin} label="LinkedIn" value="linkedin.com/in/aiswarya-tn" href="#" />
+            <ContactRow icon={Linkedin} label="LinkedIn" value="linkedin.com/in/aiswarya-t-n-69b502102" href="https://www.linkedin.com/in/aiswarya-t-n-69b502102" />
             <ContactRow icon={Github} label="GitHub" value="github.com/aiswarya-tn" href="#" />
           </div>
           <form
@@ -658,7 +658,7 @@ function Footer() {
           © {new Date().getFullYear()} Aiswarya T N. Crafted with precision & tested with care.
         </p>
         <div className="flex items-center gap-4 text-muted-foreground">
-          <a href="#" aria-label="LinkedIn" className="transition-colors hover:text-foreground">
+          <a href="https://www.linkedin.com/in/aiswarya-t-n-69b502102" aria-label="LinkedIn" className="transition-colors hover:text-foreground">
             <Linkedin className="h-4 w-4" />
           </a>
           <a href="#" aria-label="GitHub" className="transition-colors hover:text-foreground">
