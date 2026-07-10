@@ -558,7 +558,7 @@ function Contact() {
           <div className="space-y-4 lg:col-span-2">
             <ContactRow icon={MapPin} label="Location" value="Dubai, UAE" />
             <ContactRow icon={Mail} label="Email" value="aiswarya.narayanan6@gmail.com" href="mailto:aiswarya.narayanan6@gmail.com" />
-            <ContactRow icon={Phone} label="UAE Mobile" value="Available on request" />
+            <ContactRow icon={Phone} label="UAE Mobile" value="+971 55 406 7324" href="tel:+971554067324" />
             <ContactRow icon={Linkedin} label="LinkedIn" value="linkedin.com/in/aiswarya-tn" href="#" />
             <ContactRow icon={Github} label="GitHub" value="github.com/aiswarya-tn" href="#" />
           </div>
