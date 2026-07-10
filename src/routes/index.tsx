@@ -180,6 +180,7 @@ const EXPERTISE = [
 const CERTIFICATIONS = [
   "Selenium Automation",
   "API Automation",
+  "Playwright with JavaScript",
   "Agile Scrum",
   "CI/CD Practices",
 ];
