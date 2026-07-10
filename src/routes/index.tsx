@@ -560,7 +560,7 @@ function Contact() {
             <ContactRow icon={Mail} label="Email" value="aiswarya.narayanan6@gmail.com" href="mailto:aiswarya.narayanan6@gmail.com" />
             <ContactRow icon={Phone} label="UAE Mobile" value="+971 55 406 7324" href="tel:+971554067324" />
             <ContactRow icon={Linkedin} label="LinkedIn" value="linkedin.com/in/aiswarya-t-n-69b502102" href="https://www.linkedin.com/in/aiswarya-t-n-69b502102" />
-            <ContactRow icon={Github} label="GitHub" value="github.com/aiswarya-tn" href="#" />
+            <ContactRow icon={Github} label="GitHub" value="github.com/aiswaryanarayanan6-ui" href="https://github.com/aiswaryanarayanan6-ui" />
           </div>
           <form
             onSubmit={handleSubmit}
