@@ -557,7 +557,7 @@ function Contact() {
         <div className="mx-auto grid max-w-5xl gap-8 lg:grid-cols-5">
           <div className="space-y-4 lg:col-span-2">
             <ContactRow icon={MapPin} label="Location" value="Dubai, UAE" />
-            <ContactRow icon={Mail} label="Email" value="Available on request" href="mailto:hello@example.com" />
+            <ContactRow icon={Mail} label="Email" value="aiswarya.narayanan6@gmail.com" href="mailto:aiswarya.narayanan6@gmail.com" />
             <ContactRow icon={Phone} label="UAE Mobile" value="Available on request" />
             <ContactRow icon={Linkedin} label="LinkedIn" value="linkedin.com/in/aiswarya-tn" href="#" />
             <ContactRow icon={Github} label="GitHub" value="github.com/aiswarya-tn" href="#" />
