@@ -661,7 +661,7 @@ function Footer() {
           <a href="https://www.linkedin.com/in/aiswarya-t-n-69b502102" aria-label="LinkedIn" className="transition-colors hover:text-foreground">
             <Linkedin className="h-4 w-4" />
           </a>
-          <a href="#" aria-label="GitHub" className="transition-colors hover:text-foreground">
+          <a href="https://github.com/aiswaryanarayanan6-ui" aria-label="GitHub" className="transition-colors hover:text-foreground">
             <Github className="h-4 w-4" />
           </a>
           <a href="#contact" aria-label="Email" className="transition-colors hover:text-foreground">
